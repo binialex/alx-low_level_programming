@@ -1,15 +1,16 @@
 #include <stdio.h>
 #include "holberton.h"
 int main(void){
-  _putchar('H');
-  _putchar('o');
-  _putchar('l');
-  _putchar('b');
-  _putchar('e');
-  _putchar('r');
-  _putchar('t');
-  _putchar('o');
-  _putchar('n');
- _putchar('\n');
-  return (0);
+    putchar('H');
+    putchar('o');
+    putchar('l');
+    putchar('b');
+    putchar('e');
+    putchar('r');
+    putchar('t');
+    putchar('o');
+    putchar('n');
+    putchar('\n');
+    return (0);
 }
+  
