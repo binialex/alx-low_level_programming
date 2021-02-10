@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "holberton.h"
-
 /**
  * main - Entry point
  *
@@ -8,7 +7,6 @@
  *
  * Return: it return a zero
  */
-
 int main(void)
 {
   _putchar('H');
@@ -21,6 +19,5 @@ int main(void)
   _putchar('o');
   _putchar('n');
   _putchar('\n');
-  
   return (0);
 }
